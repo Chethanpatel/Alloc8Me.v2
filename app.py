@@ -1,10 +1,11 @@
 import streamlit as st
 import pandas as pd
 import json
-from streamlit_option_menu import option_menu
 import base64
 from fpdf import FPDF
 from io import BytesIO
+import sys
+from streamlit_option_menu import option_menu
 
 st.set_page_config(
     page_title="Alloc8Me",
