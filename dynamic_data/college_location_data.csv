@@ -1,0 +1,207 @@
+,CETCode,College,Location
+1,E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru"
+2,E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru"
+3,E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru"
+4,E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru"
+5,E005,RV College of Engineering,"Mysuru Rd,Bengaluru"
+6,E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru"
+7,E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru"
+8,E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru"
+9,E009,PES University (Ring Road Campus),"Banashankari, Bengaluru"
+10,E010,Islamia Institute of Technology,"Hulimavu, Bengaluru"
+11,E011,MVJ College of Engineering,"Kadugodi, Bengaluru"
+12,E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru"
+13,E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara"
+14,E014,SJC Institute of Technology,"BB Rd, Chickaballapur"
+15,E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar"
+16,E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur"
+17,E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur"
+18,E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur"
+19,E021,JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore"
+20,E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore"
+21,E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya"
+22,E024,Malnad College of Engineering (Aided),"Rangoli Halla, Hassan"
+23,E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag"
+24,E029,Maratha Mandal Engineering College,"Halbhavi Camp, Belgaum"
+25,E030,KLE Technological University(Formerly BVBCET),"Vidya Nagar, Hubli"
+26,E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot"
+27,E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag"
+28,E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri"
+29,E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad"
+30,E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada"
+31,E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum"
+32,E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum"
+33,E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur"
+34,E040,Hira Sugar Institute of Technology,"Nidasoshi, Belgaum"
+35,E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga"
+36,E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga"
+37,E043,Gurunanak Dev Engineering College,"Mailoor, Bidar"
+38,E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar"
+39,E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary"
+40,E046,HKEs S L N College of Engineering,"Yeramarus Camp, Raichur"
+41,E047,Malnad College of Engineering,"Rangoli Halla, Hassan"
+42,E048,BMS College of Engineering,"Basavanagudi,Bengaluru"
+43,E049,Basaveshwara Engineering College,Bagalkot
+44,E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi"
+45,E054,KVG College of Engineering,"Sullia, Dakshina Kannada"
+46,E055,PA College of Engineering,"Bantwal, Dakshina Kannada"
+47,E056,The National Institute of Engineering,"Manandavadi Road, Mysore"
+48,E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore"
+49,E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya"
+50,E059,PDA College of Engineering,"Shambhognlli, Gulbarga"
+51,E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru"
+52,E061,University B.D.T. college of Engineering,Davangere
+53,E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere"
+54,E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga"
+55,E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru"
+56,E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga"
+57,E070,Bahubali College of Engineering,"Gommatanagar,Hassan"
+58,E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore"
+59,E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary"
+60,E076,Proudadevaraya Institute of Technology,"Hosapete, Bellary"
+61,E077,Vidya Vikas Institute of Engineering and Technology,"Alanahally, Mysore"
+62,E078,The Oxford College of Engineering,"Hosur Road, Bengaluru"
+63,E079,Acharya Institute of Technology,"Hessarghatta Road,Bengaluru"
+64,E081,HMS Institute of Technology,"Kyathasandra,Tumakuru"
+65,E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru"
+66,E083,HKBK College of Engineering,"Nagavara, Bengaluru"
+67,E086,Sri Sairam College of Engineering(Formerly Shirdi Sai Engg),"Anekal,Bengaluru"
+68,E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru"
+69,E088,Bangalore College of Engineering and Technology,"Chandapura, Bengaluru"
+70,E089,BTL Institute of Technology and Management,"Bommasandra Industrial Area, Bengaluru"
+71,E090,Sri Revana Siddeswara Institute of Technology,"Chikkajala,Bengaluru"
+72,E091,KS Institute of Technology,"Raghuvanahalli, Bengaluru"
+73,E092,Vemana Institute of Technology,"Koramangala, Bengaluru"
+74,E093,Basavakalyana Engineering College,"Basavakalyana, Bidar"
+75,E094,Coorg Institute of Technology,"Ponnampet,Kodagu"
+76,E095,AMC Engineering College,"Bannerghatta Main Rd, Bengaluru"
+77,E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru"
+78,E097,CMR Institute of Technology,"Brookefield, Bengaluru"
+79,E098,Atria Institute of Technology,"Hebbal, Bengaluru"
+80,E099,New Horizon College of Engineering,"Kadabeesanahalli, Bengaluru"
+81,E100,KNS Institute of Technology,"Uttarahalli Hobli, Bengaluru"
+82,E101,Channabasaveshwara Institute of Technology,"Gubbi, Tumakuru"
+83,E102,DONBOSCO Institute of Technology,"Kumbalgodu,Bengaluru"
+84,E103,Global Academy of Technology,"RR Nagar, Bengaluru"
+85,E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru"
+86,E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru"
+87,E106,East West Institute of Technology,"Yelahanka, Bengaluru"
+88,E107,BNM Institute of Technology,"Banashankari, Bengaluru"
+89,E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru"
+90,E109,City Engineering College,"Doddakallasandra, Bengaluru"
+91,E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru"
+92,E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru"
+93,E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru"
+94,E114,GM Institute of Technology,Davanagere
+95,E115,SJB Institute of Technology,"Kengeri,Bengaluru"
+96,E116,RL Jalappa Institute of Technology,"Doddaballapur, Bangaluru Rural"
+97,E117,Alpha College Engineering,"Kannuru,Bengaluru"
+98,E118,RNS Institute of Technology,"RR Nagar, Bengaluru"
+99,E119,KCT Engineering College,"Roza,Gulbarga"
+100,E120,Jnanavikasa Institute of Technology,Ramanagar
+101,E121,Vivekananada College of Engineering Technology,Dakshina Kannada
+102,E123,Canara Engineering College,"Bantwal,Dakshina Kannada"
+103,E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru"
+104,E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru"
+105,E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru"
+106,E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga"
+107,E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada"
+108,E130,Shridevi Institute of Engineering and Technology,Tumkur
+109,E132,Secab Institute of Engineering and Technology,Bijapur
+110,E133,GSSS Institute of Engineering and Technology for Women,Mysore
+111,E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag"
+112,E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada"
+113,E136,Moodalakatte Institute of Technology,Udupi
+114,E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru"
+115,E141,PES University,"Electronic city,Bengaluru"
+116,E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya"
+117,E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada"
+118,E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru"
+119,E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada"
+120,E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru"
+121,E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru"
+122,E150,P E S Institute of Technology and Management,Shimoga
+123,E151,"Mangalore, Dakshina Kannada Institute of Technology and Engineering","Mangalore, Dakshina Kannada"
+124,E152,S D M Institute of Tech,"Ujire,Dakshina Kannada"
+125,E153,S E A College of Engineering and Technology,"K R puram,Bengaluru"
+126,E154,Government Engineering College,Chamarajanagara
+127,E155,Government Engineering College,Hassan
+128,E156,Government Engineering College,"K R Pet, Mandya"
+129,E157,Government Engineering College,Ramanagara
+130,E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya"
+131,E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada"
+132,E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada"
+133,E161,Government Engineering College,Kodagu
+134,E162,Government Engineering College,Raichur
+135,E163,Government Engineering College,"Devagiri,Haveri"
+136,E164,Government Engineering College,Bellary
+137,E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada"
+138,E166,K L E Institute of Technology,Hubli
+139,E167,K L E Ss K L E College of Engineering and Technology,"Chikkodi, Belgaum"
+140,E168,Amrutha Institute of Engineering and Mangement,"Bidadi,Bengaluru"
+141,E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada"
+142,E171,Brindavan College of Engineering,"Yelahanka,Bengaluru"
+143,E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru"
+144,E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru"
+145,E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural"
+146,E175,S.G.Balekundri Institute of Technology,Belgaum
+147,E176,Navodaya Institute of Technology,Raichur
+148,E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan"
+149,E178,NIE Institute of Technology,Mysore
+150,E180,Bearys Institute of Technology,"Mangalore, Dakshina Kannada"
+151,E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur"
+152,E184,C Byre Gowda Institute of Technology,Kolar
+153,E185,Angadi Institute of Technology and Management,Belgaum
+154,E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru"
+155,E188,Vijaya Vittala Institute of Technology,"Kothanur, Bengaluru"
+156,E189,NDRK Institute of Technology,"Kandali, Hassan"
+157,E191,Akshaya Institute of Technology,Tumkur
+158,E193,Srinivas University,"Mukka, Mangalore, Dakshina Kannada"
+159,E194,Government Engineering College,Karwar
+160,E195,Ekalavya Institute of Technology,Chamrajnagar
+161,E196,Jain College of Engineering,Belgaum
+162,E197,Veerappa Nisty Engineering College,Yadagiri
+163,E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga
+164,E199,AGM Rural Engineering College,Hubli
+165,E201,Gopalan College of Engineering and Management,"White field,Bengaluru"
+166,E202,Sampoorna Institute of Technology and Research,Ramanagara
+167,E203,KS School of Engineering And Management,"Mallasandra,Bengaluru"
+168,E204,Bangalore Technological Institute,"Sarjapura Rd, Bengaluru"
+169,E205,ATME College of Engineering,"Varun hobli,Mysore"
+170,E206,Shri Madhwa Vadiraja Institute of Technology and Management,Udupi
+171,E207,VSMs Somashekar R Kothiwale Institute of Technology,"Nippani, Belgaum"
+172,E208,Achutha Institute of Technology,"Yelahanka, Bengaluru"
+173,E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru"
+174,E210,G Madegowda Institute of Technology,"Maddur , Mandya"
+175,E211,Jain Institute of Technology,Davanagere
+176,E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru"
+177,E213,Lingarajappa Engineering College,Bidar
+178,E216,Shetty Institute of Technology,Gulbarga
+179,E219,Mangalore Marine College and Technology,Mangalore
+180,E220,Alliance University,"Anekal, Bengaluru"
+181,E221,Biluru Gurubasava Mahaswamiji Institute of Technology,"Mudhol,Bagalkot"
+182,E222,Cambridge Institutute of Technology,"Devanahalli,Bengaluru"
+183,E227,Cauvery Institute of Technology,Mandya
+184,E232,Reva University,"Yelahanka, Bengaluru"
+185,E233,Jain Acharya Gundharnandi Maharaj Institute of Technology,"Jamkhandi, Bagalkot"
+186,E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru"
+187,E237,Presidency University,"Yelahanka,Bengaluru"
+188,E238,Mysuru Royal Institute of Technology,Mandya
+189,E239,East West College of Engineering,"Yelahanka,Bengaluru"
+190,E240,Dayananda Sagar University,"Hosur,Bengaluru"
+191,E241,KLE Technological University(Formerly BVBCET),Dharwad
+192,E252,Mysore College of Engineering and Management,Mysore
+193,E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada"
+194,E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rura"
+195,E257,CMR University,"Chagalatti, Bengaluru"
+196,E258,Maharaja Institute of Technology,"Thandavapura, Mysore"
+197,E260,Nitte School of Architecture,"Yelahanka,Bengaluru"
+198,E264,Basava Engineering School of Technology,"Zalaki, Bijapur"
+199,E265,Jain College of Engineering and Technology,Hubli
+200,E269,Jain College of Engineering and Research,"Udyambhag, Belgaum"
+201,E272,Government Engineering College,"Talakal,Koppal"
+202,E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal"
+203,E274,Government Engineering College,"Moselehosahalli,Hassan"
+204,E275,RV Institute of Technology and Management,"JP nagar,Bengaluru"
+205,E278,Visvesvaraya Technological University (VTU),"Muddenahalli,Chickkaballapur"
+206,E279,Visvesvaraya Technological University (VTU),Belgaum
